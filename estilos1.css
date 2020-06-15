@@ -1,0 +1,103 @@
+body 
+{
+    
+   font-family: 'Montserrat', sans-serif;
+    color: #261f1f;
+    margin: 8px;
+    background-color:#2a5484;
+}
+.grid-container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width:1200px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+header {
+    height:600px;
+  background-image: url(images/madeira.jpg);
+	padding: 140px 20% ;
+     }
+h1{
+    font-weight:bold;
+    font-size: 3em;
+    text-align: center;
+
+		
+	}
+h3 {
+	text-align: center;
+	color:#d6d68f;
+}
+	
+	
+	
+   
+p {
+    font-weight: bold;
+    text-align: center;
+}
+nav {
+    background-color: #010108;
+}
+nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+nav ul a {
+    text-decoration: none;
+}
+nav ul a li {
+    display: block;
+    list-style: none;
+    padding: 20px 0px;
+    margin: auto;
+    text-align: center;
+    color: #fafafa;
+    text-decoration: none;
+}
+nav ul a li:hover {
+    background-color: white;
+    color: black;
+}
+.legenda {
+    
+    left:57%;
+    top: 50%;
+   
+  
+  }
+h2 {
+    text-align: center;
+}
+
+.article {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    line-height: 1.5em;
+    border-bottom: lightgray solid 1px;
+}
+.motivos {
+	padding:  10px;
+	background-color: #307fc3;
+	overflow: auto;
+}
+h4 {
+	color: azure;
+	height: 20px;
+}
+
+
+
+.detalhes_bt {
+display: inline-block;
+  border-radius: 6px;
+  font-size: 16px;
+	color: #fafafa;
+  padding: 10px 20px;
+  border: solid #e0e0e0 1px;
+    text-decoration: none;}
+.rodape {
+width:100%;
+	background-color: black;
+}
